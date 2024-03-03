@@ -45,6 +45,7 @@ body{
 
 .container__botao:hover{
     color: var(--branco-principal);
+    background-color: #C0C0C0;
 }
 .botao_secundario{
     background-color: transparent;
